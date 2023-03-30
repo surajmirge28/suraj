@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Webpage</title>
+</head>
+<body>
+   <p> 
+    <h4>Gmail</h4>
+    <a href="https://www.gmail.com">Link </a>
+</p>
+<p>
+    <h4>Facebook</h4>
+    <a href="https:www.facebook.com">Link</a>
+</p>
+<p>
+    <h4>Flipkart</h4>
+    <a href="https:www.flipkart.com">Link</a>
+</p>
+
+
+<a href="/table.html">Table 1</a>
+<a href="./table.html">Table 2</a>
+
+</body>
+</html>
